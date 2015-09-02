@@ -27,7 +27,7 @@ If a riddle is just to gosh-darn hard, but you have to know the answer, you can 
 ```
 riddle me that?
 ```
-Riddlebot will most likely mock you, but hey at least you got the answer.
+Riddlebot will most likely mock you, but hey at least you'll get the answer.
 
 ## Expanding riddlebot's horizans
 If you have a riddle that you think riddlebot should know for future daredevils, you can let it know by saying:
