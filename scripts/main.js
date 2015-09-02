@@ -39,7 +39,7 @@ module.exports = function (robot) {
     } else {
       robot.brain.set('answer', '');
       res.reply('Well would you look at that! You do have the ability to think. ' +
-        'Alas don\'t get too comfortable, because the next one will be much harder.');
+        'Alas! Don\'t get too comfortable, because the next one will be much harder.');
     }
   });
 
