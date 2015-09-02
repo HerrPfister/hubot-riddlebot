@@ -1,0 +1,19 @@
+{
+  "name": "riddlebot",
+  "version": "1.0.0",
+  "description": "The master of conundrums itself, the riddlebot will stump you with only the most difficult riddles, and if you ask nicely it might listen to your's.",
+  "main": "index.js",
+  "scripts": {
+    "shell": "hubot --adapter shell --disable-httpd",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubot",
+    "riddlebot",
+    "hubot-scripts"
+  ],
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "hubot": "^2.16.0"
+  }
+}
