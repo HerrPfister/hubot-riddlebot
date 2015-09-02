@@ -29,7 +29,7 @@ riddle me that?
 ```
 Riddlebot will most likely mock you, but hey at least you'll get the answer.
 
-## Expanding riddlebot's horizans
+## Expanding riddlebot's horizons
 If you have a riddle that you think riddlebot should know for future daredevils, you can let it know by saying:
 
 ```
