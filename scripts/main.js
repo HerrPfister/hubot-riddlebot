@@ -27,7 +27,7 @@ module.exports = function (robot) {
   robot.hear(/riddle me that[?]/i, function (res) {
     var correctAnswer = robot.brain.get('answer');
 
-    res.reply('Giving up already? Well I should have seen that coming. Here is the answer to that riddle: ' + correctAnswer);
+    res.reply('Giving up already? Well I should have seen that coming. Here is the answer to that riddle: ' + correctAnswer + ".");
   });
 
   robot.hear(/riddle me done[!]\s*(.*)/i, function (res) {
