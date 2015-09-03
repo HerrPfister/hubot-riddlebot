@@ -58,7 +58,6 @@ module.exports = function (robot) {
 
     fs.writeFile(path.join(__dirname + '/../static/consts/riddles.json'), newRiddles, function (err) {
       if (err) {
-        console.log(JSON.stringify(err))
         res.send('Ouch! My head hurts, and I can\'t remember a thing you said. Can we try that again?');
       } else {
         res.send('Clever, clever. I\'ll remember that.');
