@@ -2,10 +2,10 @@
 
 ![riddler](http://vignette1.wikia.nocookie.net/batman/images/a/ab/The_Riddler_3.png/revision/latest?cb=20090728165955)
 
-The master of conundrums itself, the riddlebot will stump you with only the most difficult riddles, and if you ask nicely it might listen to your's.
+The master of conundrums itself, the riddlebot will stump you with only the most difficult riddles.
 
 ## Getting a riddle
-If you need to get your riddle on, riddlebot is happy to oblige. Just mutter the words: 
+If you need to get your riddle on, riddlebot is happy to oblige. Just mutter the words:
 
 ```
 riddle me this?
@@ -28,13 +28,6 @@ If a riddle is just to gosh-darn hard, but you have to know the answer, you can 
 riddle me that?
 ```
 Riddlebot will most likely mock you, but hey at least you'll get the answer.
-
-## Expanding riddlebot's horizons
-If you have a riddle that you think riddlebot should know for future daredevils, you can let it know by saying:
-
-```
-riddlebot get smart [your riddle]? [answer to the riddle]
-```
 
 ## Testing
 

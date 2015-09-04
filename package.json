@@ -1,7 +1,7 @@
 {
   "name": "riddlebot",
-  "version": "1.0.3",
-  "description": "The master of conundrums itself, the riddlebot will stump you with only the most difficult riddles, and if you ask nicely it might listen to your's.",
+  "version": "1.0.4",
+  "description": "The master of conundrums itself, the riddlebot will stump you with only the most difficult riddles.",
   "main": "index.js",
   "scripts": {
     "shell": "hubot --adapter shell --disable-httpd",
